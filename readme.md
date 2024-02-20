@@ -24,6 +24,10 @@ Using Language Studio, I created a review of a fictional hotel in Tokyo, as if I
 
 <img src="./images/2.png" alt="">
 <img src="./images/3.png" alt="">
+
+## **Creating a resource**
+
+
 <img src="./images/4.png" alt="">
 <img src="./images/5.png" alt="">
 <img src="./images/6.png" alt="">
