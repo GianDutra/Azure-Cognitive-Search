@@ -58,8 +58,8 @@ Using Azure AI Search, I conducted filtered searches on some .DOCX files that we
 
 <img src="./images/19.png" alt="">
 <img src="./images/20.png" alt="">
-Here, I simply clicked "next" until the end.
 <img src="./images/21.png" alt="">
+Here, I simply clicked "next" until the end.
 <img src="./images/22.png" alt="">
 
 ## **Searching Comments by Location**  
