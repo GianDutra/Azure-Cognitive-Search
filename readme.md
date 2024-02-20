@@ -18,7 +18,7 @@
 
 Using Language Studio, I created a review of a fictional hotel in Tokyo, as if I were a guest who stayed there. Finally, the language analysis in Azure evaluates the sentences contained in my comment and displays the results in percentages, categorizing them as positive, neutral, or negative.
   
-## **Azure Cognitive Search**
+## **Creating an Azure AI Search**
 
 
 
