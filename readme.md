@@ -16,7 +16,7 @@
 
 ## About the project
 
-Using Language Studio, I created a review of a fictional hotel in Tokyo, as if I were a guest who stayed there. Finally, the language analysis in Azure evaluates the sentences contained in my comment and displays the results in percentages, categorizing them as positive, neutral, or negative.
+Using Azure AI Search, I conducted filtered searches on some .DOCX files that were stored inside a container in Azure Blob Storage.
   
 ## **Creating an Azure AI Search**
 
@@ -69,7 +69,7 @@ Using Language Studio, I created a review of a fictional hotel in Tokyo, as if I
 
 
 ## Final Considerations
-I was amazed when I discovered that sentiment analysis existed and was so easily accessible within Language Studio. Without a doubt, it's a powerful tool that could be utilized, for example, by a hotel chain to gather insights from customer feedback. With a deeper analysis of the data, they could then improve their services.
+I found it incredible how easy it is to create a Container in Blob Storage within Azure, and it's an amazing experience to perform searches through Azure AI Search. Without a doubt, it's a very useful resource that can be used in various contexts to help companies organize their files.
 
 ## 👨‍💼 Autor
 
