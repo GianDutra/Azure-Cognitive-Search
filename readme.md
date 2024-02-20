@@ -39,13 +39,13 @@ Using Language Studio, I created a review of a fictional hotel in Tokyo, as if I
 <img src="./images/9.png" alt="">
 <img src="./images/10.png" alt="">
 
-## **Configurating to allow anonymous access**
+## **Configuring to Allow Anonymous Access**
 
 <img src="./images/11.png" alt="">
 <img src="./images/12.png" alt="">
 <img src="./images/13.png" alt="">
 
-## **Creating a new Container**
+## **Creating a New Container**
 
 <img src="./images/14.png" alt="">
 <img src="./images/15.png" alt="">
@@ -53,7 +53,7 @@ Using Language Studio, I created a review of a fictional hotel in Tokyo, as if I
 <img src="./images/17.png" alt="">
 <img src="./images/18.png" alt="">
 
-## **Importing data**
+## **Importing Data**
 
 
 <img src="./images/19.png" alt="">
@@ -61,7 +61,7 @@ Using Language Studio, I created a review of a fictional hotel in Tokyo, as if I
 <img src="./images/21.png" alt="">
 <img src="./images/22.png" alt="">
 
-## **Searching comments by location**  
+## **Searching Comments by Location**  
 
 <img src="./images/23.png" alt="">
 <img src="./images/25.png" alt="">
