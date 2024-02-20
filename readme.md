@@ -25,16 +25,22 @@ Using Language Studio, I created a review of a fictional hotel in Tokyo, as if I
 <img src="./images/2.png" alt="">
 <img src="./images/3.png" alt="">
 
-## **Creating a resource**
+## **Creating a Resource**
 
 
 <img src="./images/4.png" alt="">
 <img src="./images/5.png" alt="">
 <img src="./images/6.png" alt="">
+
+## **Creating an Azure Blob Storage**
+
 <img src="./images/7.png" alt="">
 <img src="./images/8.png" alt="">
 <img src="./images/9.png" alt="">
 <img src="./images/10.png" alt="">
+
+## **Configurating to allow anonymous access**
+
 <img src="./images/11.png" alt="">
 <img src="./images/12.png" alt="">
 <img src="./images/13.png" alt="">
